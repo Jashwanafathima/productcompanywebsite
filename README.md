@@ -329,7 +329,7 @@ CONTACT
 ![](./images/people.png)
 
 ### Contact Page:
-![](./images/contact.png)
+![](images/contact.png)
 
 ## Result:
 
