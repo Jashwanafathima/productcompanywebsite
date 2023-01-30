@@ -318,15 +318,18 @@ CONTACT
 
 ### Home Page:
 
-![](home.png)
+![](./images/home.png)
 
 ### Product Page:
 
+![](./images/product.png)
 
 ### People Page:
 
+![](./images/people.png)
 
 ### Contact Page:
+![](./images/contact.png)
 
 ## Result:
 
